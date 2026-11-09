@@ -1,0 +1,7 @@
+# secrets and logs
+*.env
+logs/
+
+# Python
+__pycache__/
+.pytest_cache/
