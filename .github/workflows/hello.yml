@@ -1,0 +1,25 @@
+name: Hello
+
+on:
+  push:
+  workflow_dispatch:
+jobs:
+
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hello
+        run: echo "Hello from GitHub Actions!"
+      - name: Show some context
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch: ${{ github.ref_name }}"
+          echo "Started by: ${{ github.actor }}"
+          echo "Event: ${{ github.event_name }}"
+
+      - name: Files before checkout
+        run: ls -la
+      - name: Check out the code
+        uses: actions/checkout@v5
+      - name: Files after checkout
+        run: ls -la
