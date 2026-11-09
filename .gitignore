@@ -5,3 +5,7 @@ logs/
 # Python
 __pycache__/
 .pytest_cache/
+.venv/
+.coverage
+coverage.md
+coverage.xml

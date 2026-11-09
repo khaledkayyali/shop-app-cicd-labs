@@ -72,4 +72,4 @@ The free course **Hello GitHub Actions** on GitHub Skills (skills.github.com) re
 
 ---
 
-Previous: [Lab 10](lab-10-ship-it.md) · [All labs](../README.md)
+Previous: [Lab 10](lab-10-ship-it.md) · Next session: [Lab 11](lab-11-coverage.md) · [All labs](../README.md)
