@@ -49,4 +49,4 @@ Answer each in 3 to 6 sentences, in your own words.
 
 ---
 
-Previous: [Lab 14](lab-14-quality-gate.md) · [All labs](../README.md)
+Previous: [Lab 14](lab-14-quality-gate.md) · Next session: [Lab 15](lab-15-your-aws-account.md) · [All labs](../README.md)
