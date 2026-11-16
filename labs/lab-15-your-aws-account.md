@@ -1,6 +1,6 @@
 # Lab 15: Your AWS account
 
-**Session 6 · 20 minutes · AWS Console and CloudShell**
+**Session 6 · 15 minutes · AWS Console and CloudShell**
 
 **Goal:** sign in to AWS, find your way around the console, open a terminal inside AWS, and see for yourself what your user may and may not do.
 

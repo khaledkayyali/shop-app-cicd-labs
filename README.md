@@ -52,7 +52,7 @@ Use the AWS user your instructor sent you, in region **Europe (Frankfurt) eu-cen
 
 | Lab | Topic | Time in class |
 |---|---|---|
-| [Lab 15](labs/lab-15-your-aws-account.md) | Your AWS account, IAM and CloudShell | 20 minutes |
+| [Lab 15](labs/lab-15-your-aws-account.md) | Your AWS account, IAM and CloudShell | 15 minutes |
 | [Lab 16](labs/lab-16-s3-storage.md) | Store files in S3 | 25 minutes |
 | [Lab 17](labs/lab-17-your-first-server.md) | Your first server on EC2 | 30 minutes |
 | [Homework 6](labs/homework-06.md) | The same server from the command line | about 2.5 hours |
