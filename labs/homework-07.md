@@ -58,4 +58,4 @@ Answer each in 3 to 6 sentences, in your own words.
 
 ---
 
-Previous: [Lab 20](lab-20-self-healing-and-cleanup.md) · [All labs](../README.md)
+Previous: [Lab 20](lab-20-self-healing-and-cleanup.md) · Next session: [Lab 21](lab-21-your-own-vpc.md) · [All labs](../README.md)

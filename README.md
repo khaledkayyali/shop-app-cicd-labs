@@ -4,7 +4,7 @@ Starter project and lab instructions for the DevOps course, from **Session 4** o
 
 - **Session 4:** shop-app gets a robot. Every push and pull request is tested, and every merge to `main` publishes a web page.
 - **Session 5:** the robot gets stricter: test coverage, Ruff, security scans and a quality gate.
-- **Sessions 6 and 7:** shop-app moves to AWS: storage, servers, a load balancer and Auto Scaling.
+- **Sessions 6 to 8:** shop-app moves to AWS: storage, servers, a load balancer, Auto Scaling, its own network and a managed database.
 
 ## Which repository do I work in?
 
@@ -66,6 +66,14 @@ Use the AWS user your instructor sent you, in region **Europe (Frankfurt) eu-cen
 | [Lab 20](labs/lab-20-self-healing-and-cleanup.md) | Self-healing, scaling and cleanup | 30 minutes |
 | [Homework 7](labs/homework-07.md) | Update without downtime | about 2.5 hours |
 
+### Session 8: Advanced networks, VPC and RDS
+
+| Lab | Topic | Time in class |
+|---|---|---|
+| [Lab 21](labs/lab-21-your-own-vpc.md) | Your own network: VPC, subnets, route tables | 30 minutes |
+| [Lab 22](labs/lab-22-database-in-a-private-subnet.md) | A database in a private subnet | 35 minutes |
+| [Homework 8](labs/homework-08.md) | The network as code, and five design questions | about 3 hours |
+
 ## Rules
 
 - **YAML uses spaces, never tabs.** Two spaces per level. One wrong space breaks the file.
@@ -81,8 +89,8 @@ Use the AWS user your instructor sent you, in region **Europe (Frankfurt) eu-cen
 | `app.py` | The shop app |
 | `config.py` | Store name, price and currency |
 | `.gitignore` | Keeps secrets, logs, the virtual environment and coverage files out of Git |
-| `labs/` | The instructions for Labs 7 to 20 and Homeworks 4 to 7 |
+| `labs/` | The instructions for Labs 7 to 22 and Homeworks 4 to 8 |
 
 ## Submit in Google Classroom
 
-Each lab says what to submit at its end. Questions are numbered across the course: Session 4 has Questions 12 to 20, Session 5 has 21 to 30, Session 6 has 31 to 39, and Session 7 has 40 to 48.
+Each lab says what to submit at its end. Questions are numbered across the course: Session 4 has Questions 12 to 20, Session 5 has 21 to 30, Session 6 has 31 to 39, Session 7 has 40 to 48, and Session 8 has 49 to 56.
